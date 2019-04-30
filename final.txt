@@ -1,0 +1,14 @@
+total 56
+drwxr-xr-x 5 aluno.unilasalle aluno.unilasalle  4096 abr 29 21:28 backup-douglas
+drwxr-xr-x 2 aluno.unilasalle aluno.unilasalle  4096 abr 29 21:08 douglas20
+-rw-r--r-- 1 aluno.unilasalle aluno.unilasalle     0 abr 29 21:35 final.txt
+-rw-r--r-- 1 aluno.unilasalle aluno.unilasalle   663 abr 29 20:41 instrucoes.txt
+drwxr-xr-x 2 aluno.unilasalle aluno.unilasalle  4096 abr 29 20:41 log
+drwxr-xr-x 2 aluno.unilasalle aluno.unilasalle  4096 abr 29 20:41 pasta1
+drwxr-xr-x 2 aluno.unilasalle aluno.unilasalle  4096 abr 29 21:27 pasta2
+drwxr-xr-x 3 aluno.unilasalle aluno.unilasalle  4096 abr 29 20:41 pasta3
+-rw-r--r-- 1 aluno.unilasalle aluno.unilasalle  2820 abr 29 21:32 prova1-2019.txt
+-rw-r--r-- 1 aluno.unilasalle aluno.unilasalle  2820 abr 29 21:34 prova1-douglas.txt
+-rw-r--r-- 1 aluno.unilasalle aluno.unilasalle    32 abr 29 20:41 README.md
+-rw-r--r-- 1 aluno.unilasalle aluno.unilasalle 10168 abr 29 20:48 tail
+-rw-r--r-- 1 aluno.unilasalle aluno.unilasalle   402 abr 29 20:41 ultimocomando.txt
